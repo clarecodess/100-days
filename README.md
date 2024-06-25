@@ -11,4 +11,4 @@ A challenge to improve as a developer by building on the foundation I establishe
 ## My Plan for 100 Days of Code
 1. Code for at least an hour a day.
 2. Document progress on my blog, Twitter and LinkedIn. Host the code on Github.
-3. Work on a varoety of projects and challenges to understand new and old concepts.
+3. Work on a variety of projects and challenges to understand new and old concepts.
